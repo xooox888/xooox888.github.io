@@ -1,1 +1,1 @@
-# AdMob publisher line added after setup
+google.com, pub-2919538615477775, DIRECT, f08c47fec0942fa0
